@@ -10,5 +10,7 @@ A collection of three Minesweeper implementations developed in Haskell, C, and P
 ## 🛠 Built With
 
 Haskell (Functional)
+
 C (Procedural)
+
 Python (OOP)
