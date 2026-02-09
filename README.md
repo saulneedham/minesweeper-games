@@ -3,9 +3,9 @@ A collection of three Minesweeper implementations developed in Haskell, C, and P
 
 ## 📘 Included Projects
 
-* minesweeper.hs: A functional programming implementation emphasizing immutability, recursion, and pure functions to manage game state and board transformations.
-* minesweeper.c: A procedural programming version focused on manual memory management, pointer manipulation, and structured top-down execution.
-* minesweeper.py: An object-oriented programming (OOP) approach utilizing classes and methods to encapsulate game logic, board properties, and player actions.
+* minesweeper.hs - A functional programming implementation emphasizing immutability, recursion, and pure functions to manage game state and board transformations.
+* minesweeper.c - A procedural programming version focused on manual memory management, pointer manipulation, and structured top-down execution.
+* minesweeper.py - An object-oriented programming (OOP) approach utilizing classes and methods to encapsulate game logic, board properties, and player actions.
 
 ## 🛠 Built With
 
